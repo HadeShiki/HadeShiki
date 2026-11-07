@@ -1,96 +1,81 @@
+<!-- 🌤️ LIGHT + GIF GITHUB PROFILE -->
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:312E81,100:6D5DFB&height=180&section=header&text=HadeShiki&fontSize=52&fontColor=EDE9FE&fontAlignY=38&desc=Code%20%2F%20Create%20%2F%20Share&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoajJ2bm91cWF5ZjY5NWh6eHQ3ajg2YzRlcTVrZ2huaXI5aHo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VCzTnU7UvinaIV84Wd/giphy.gif" width="100%" />
+
+  <h1>Hi, I'm HadeShiki 👋</h1>
+  <h3>Game Developer • C++ Programmer • Open Source Enthusiast</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B7CC8&center=true&vCenter=true&width=500&lines=Building+things+with+C%2B%2B;Learning+%2C+Creating+%2C+Improving;Turning+ideas+into+reality" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Open+Source+Enthusiast;Building+and+sharing+software.;Simple+code.+Useful+ideas." alt="Typing SVG" />
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=6D5DFB&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/OS-Windows%2011-6D5DFB?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=9B8AD9&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/OS-Windows%2011-8B9FE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-B9A0E8?style=flat-square" />
 
 </div>
 
 ---
 
-### `whoami`
+## ✦ About Me
 
-Hey! I'm **HadeShiki**.
-
-I'm a developer who enjoys building software, experimenting with ideas, and exploring how things work under the hood.
-
-Most of my time goes into C++, development tools, and open-source projects. I like keeping things simple, writing maintainable code, and sharing what I make.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoajJ2bm91cWF5ZjY5NWh6eHQ3ajg2YzRlcTVrZ2huaXI5aHo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K5FLxv5oujypXbMywW/giphy.gif" width="230" />
 
 ```cpp
-namespace hadeshiki {
+namespace HadeShiki {
+    const char* role = "Game Developer";
+    const char* language = "C++";
+    const char* os = "Windows 11";
 
-    constexpr auto language = "C++";
-    constexpr auto platform = "Windows 11";
-    constexpr auto build = "CMake / Makefile";
-    constexpr auto mindset = "Keep it simple";
-
+    bool open_to_learning = true;
+    bool love_creating = true;
 }
 ```
 
-### `tech.stack`
+- 🎮 Interested in Game Development
+- 💻 Enjoy programming with C++
+- 🛠️ Exploring tools and development workflows
+- 🌱 Always learning something new
+- ✨ Building projects and experimenting with ideas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,visualstudio,vscode,windows,bash,python&theme=dark" alt="Tech Stack" />
-</p>
+<br clear="right"/>
 
-<div align="center">
+---
 
-| Category | Technologies |
-|:--|:--|
-| Language | C++ |
-| Build Systems | CMake · Makefile |
-| Environment | Windows 11 |
-| Version Control | Git · GitHub |
-| Interests | Software Development · Open Source |
-
-</div>
-
-### `open.source`
-
-I believe good software should be shared.
-
-I enjoy creating and publishing open-source projects, learning from other developers, and contributing to tools that people can actually use.
-
-- Building useful software and tools.
-- Exploring modern C++ and software design.
-- Writing clean and maintainable code.
-- Sharing projects with the community.
-
-### `streak`
-
-<div align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</div>
-
-### `contributions`
+## ✦ Tech Stack
 
 <div align="center">
 
-  <img src="./profile/activity-graph.svg" width="100%" alt="Contribution Graph" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3p0ajVranhkOTgxdDk1emY4eTZnOTVsa2N1ODk3cXFna3h4cnZvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AAsvfWAOHUapnuuWpC/giphy.gif" width="180" />
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img alt="Contribution Snake" src="./profile/github-snake.svg" width="100%" />
-  </picture>
+  **Languages & Tools**
+
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" />
 
 </div>
 
-### `achievements`
+---
+
+## ✦ What I'm Interested In
+
+- Game Development
+- C++ Programming
+- Open Source Projects
+- Software Architecture
+- Learning new technologies
+
+---
+
+## ✦ GitHub Activity
 
 <div align="center">
 
-  <img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HadeShiki&show_icons=true&hide_border=true&bg_color=ffffff&title_color=8B7CC8&icon_color=9B8AD9&text_color=555555" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeShiki&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B7CC8&text_color=555555" height="165" />
 
 </div>
 
@@ -98,18 +83,11 @@ I enjoy creating and publishing open-source projects, learning from other develo
 
 <div align="center">
 
-  <a href="https://github.com/HadeShiki">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzQzdzhwN3pzMjN1cWl1MWw5MXZwdTRkaGl3MzRqdXlieGV2bDlmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PWoR4vHpFUE3VSyIQU/giphy.gif" width="260" />
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HadeShiki.HadeShiki&left_color=09090b&right_color=6d5dfb" alt="Visitors" />
+  <h3>Thanks for visiting my profile!</h3>
+  <p><i>Keep creating. Keep learning. Keep building.</i></p>
 
-  <br/><br/>
-
-  <sub>Made with curiosity, coffee, and a little bit of C++.</sub>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:312E81,100:09090B&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer" width="100%" />
 
 </div>
