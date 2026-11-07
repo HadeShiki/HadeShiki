@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="430" height="190"
+        viewBox="0 0 430 190">
+        <rect width="100%" height="100%"
+        rx="12" fill="#FFFFFF"/>
+        <style>
+        text {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        </style>
+    
+    <text x="24" y="34" font-size="18"
+        font-weight="bold" fill="#444444">
+        GitHub Statistics
+    </text>
+
+    <text x="24" y="54" font-size="11"
+        fill="#777777">
+        @HadeShiki
+    </text>
+    
+        <text x="24" y="95"
+            font-size="20" font-weight="bold"
+            fill="#9B8AD9">
+            6
+        </text>
+
+        <text x="24" y="113"
+            font-size="11" fill="#777777">
+            Public Repositories
+        </text>
+        
+        <text x="225" y="95"
+            font-size="20" font-weight="bold"
+            fill="#9B8AD9">
+            0
+        </text>
+
+        <text x="225" y="113"
+            font-size="11" fill="#777777">
+            Total Stars
+        </text>
+        
+        <text x="24" y="150"
+            font-size="20" font-weight="bold"
+            fill="#9B8AD9">
+            0
+        </text>
+
+        <text x="24" y="168"
+            font-size="11" fill="#777777">
+            Total Forks
+        </text>
+        
+        <text x="225" y="150"
+            font-size="20" font-weight="bold"
+            fill="#9B8AD9">
+            1
+        </text>
+
+        <text x="225" y="168"
+            font-size="11" fill="#777777">
+            Followers
+        </text>
+        </svg>
