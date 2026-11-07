@@ -58,9 +58,16 @@ namespace HadeShiki {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" alt="Light Tech Stack" />
-
-<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=dark" alt="Dark Tech Stack" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=dark"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light"
+    alt="Tech Stack"
+  />
+</picture>
 
 </div>
 
@@ -81,15 +88,37 @@ namespace HadeShiki {
 
 <div align="center">
 
-<a href="https://github.com/HadeShiki">
-  <img src="./profile/stats-light.svg#gh-light-mode-only" height="165" alt="GitHub Stats Light" />
-  <img src="./profile/stats-dark.svg#gh-dark-mode-only" height="165" alt="GitHub Stats Dark" />
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/stats-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/stats-light.svg"
+  />
+  <img
+    src="./profile/stats-light.svg"
+    height="165"
+    alt="GitHub Statistics"
+  />
+</picture>
 
-<a href="https://github.com/HadeShiki">
-  <img src="./profile/top-langs-light.svg#gh-light-mode-only" height="165" alt="Top Languages Light" />
-  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" height="165" alt="Top Languages Dark" />
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile/top-langs-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/top-langs-light.svg"
+  />
+  <img
+    src="./profile/top-langs-light.svg"
+    height="165"
+    alt="Top Languages"
+  />
+</picture>
 
 </div>
 
@@ -97,12 +126,20 @@ namespace HadeShiki {
 
 <div align="center">
 
-### Thanks for visiting my profile!
+<h3>Thanks for visiting my profile!</h3>
 
-**Keep Creating. Keep Learning. Keep Building.**
+<p>Keep Creating. Keep Learning. Keep Building.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer#gh-light-mode-only" width="100%" alt="Light Footer" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer#gh-dark-mode-only" width="100%" alt="Dark Footer" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</picture>
 
 </div>
