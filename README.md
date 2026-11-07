@@ -2,13 +2,13 @@
 
 # HadeShiki
 
-### C++ Developer • Game Development • Open Source
+### C++ Developer | Game Development | Open Source
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AD9&center=true&vCenter=true&width=500&lines=Building+things+with+C%2B%2B;Learning+%2C+Creating+%2C+Improving;I+Love+Miku+%E2%99%A5;I+Love+Ryo+%E2%99%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AD9&center=true&vCenter=true&width=500&lines=Building+things+with+C%2B%2B;Learning%2C+Creating%2C+Improving;I+Love+Miku;I+Love+Ryo" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=B8A5E8&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=9B8AD9&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -30,23 +30,25 @@ namespace HadeShiki {
 }
 ```
 
-- 🎮 Interested in Game Development
-- 💻 Enjoy programming with C++
-- 🌱 Always learning something new
-- 💙 I love Miku!
-- 🎸 I love Ryo!
+- Interested in Game Development
+- Enjoy programming with C++
+- Always learning something new
+- Love Hatsune Miku
+- Love Ryo Yamada
+
+---
 
 ## My Favorites
 
 <div align="center">
 
-### 💙 I Love Miku
+### Hatsune Miku
 
-<img src="https://img.shields.io/badge/初音ミク-Hatsune%20Miku-39C5BB?style=flat-square" />
+<img src="https://img.shields.io/badge/LOVE-Hatsune%20Miku-39C5BB?style=for-the-badge&logoColor=white" alt="I Love Hatsune Miku" />
 
-### 🎸 I Love Ryo
+### Ryo Yamada
 
-<img src="https://img.shields.io/badge/山田リョウ-Ryo%20Yamada-9B8AD9?style=flat-square" />
+<img src="https://img.shields.io/badge/LOVE-Ryo%20Yamada-9B8AD9?style=for-the-badge&logoColor=white" alt="I Love Ryo Yamada" />
 
 </div>
 
@@ -56,7 +58,9 @@ namespace HadeShiki {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" alt="Light Tech Stack" />
+
+<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=dark" alt="Dark Tech Stack" />
 
 </div>
 
@@ -77,8 +81,15 @@ namespace HadeShiki {
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="165" />
-<img src="./profile/top-langs.svg" height="165" />
+<a href="https://github.com/HadeShiki">
+  <img src="./profile/stats-light.svg#gh-light-mode-only" height="165" alt="GitHub Stats Light" />
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" height="165" alt="GitHub Stats Dark" />
+</a>
+
+<a href="https://github.com/HadeShiki">
+  <img src="./profile/top-langs-light.svg#gh-light-mode-only" height="165" alt="Top Languages Light" />
+  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" height="165" alt="Top Languages Dark" />
+</a>
 
 </div>
 
@@ -86,10 +97,12 @@ namespace HadeShiki {
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+### Thanks for visiting my profile!
 
-*Keep creating. Keep learning. Keep building.*
+**Keep Creating. Keep Learning. Keep Building.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer#gh-light-mode-only" width="100%" alt="Light Footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer#gh-dark-mode-only" width="100%" alt="Dark Footer" />
 
 </div>
