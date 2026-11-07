@@ -99,6 +99,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="./profile/stats-dark.svg"
   />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/stats-light.svg"
+  />
   <img
     src="./profile/stats-light.svg"
     width="430"
@@ -110,6 +114,10 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="./profile/top-langs-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile/top-langs-light.svg"
   />
   <img
     src="./profile/top-langs-light.svg"
@@ -166,6 +174,10 @@ Keep Creating. Keep Learning. Keep Building.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer"
   />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer"
