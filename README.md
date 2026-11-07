@@ -64,14 +64,10 @@ I enjoy creating and publishing open-source projects, learning from other develo
 - Writing clean and maintainable code.
 - Sharing projects with the community.
 
-### `github.activity`
+### `streak`
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HadeShiki&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&rank_icon=github" alt="GitHub Stats" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeShiki&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=D4D4D8" alt="Top Languages" />
-
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 ### `contributions`
@@ -94,7 +90,7 @@ I enjoy creating and publishing open-source projects, learning from other develo
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=HadeShiki&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" width="100%" alt="GitHub Trophies" />
 
 </div>
 
