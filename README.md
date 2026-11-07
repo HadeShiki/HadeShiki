@@ -78,11 +78,7 @@ I enjoy creating and publishing open-source projects, learning from other develo
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HadeShiki&bg_color=09090b&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=312e81&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HadeShiki&bg_color=ffffff&color=6d5dfb&line=8b5cf6&point=a78bfa&area=true&area_color=ede9fe&hide_border=true" />
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=HadeShiki&bg_color=09090b&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=312e81&hide_border=true" width="100%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeShiki&bg_color=09090b&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=312e81&hide_border=true" width="100%" alt="Contribution Graph" />
 
   <br/>
 
