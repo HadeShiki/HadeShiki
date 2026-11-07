@@ -1,8 +1,8 @@
 <div align="center">
 
-# HadeShiki
+<h1>HadeShiki</h1>
 
-### C++ Developer | Game Development | Open Source
+<h3>C++ Developer | Game Development | Open Source</h3>
 
 <a href="https://github.com/HadeShiki">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AD9&center=true&vCenter=true&width=520&lines=Building+things+with+C%2B%2B;Learning%2C+Creating%2C+Improving;I+Love+Hatsune+Miku;I+Love+Ryo+Yamada" alt="Typing SVG" />
@@ -31,13 +31,13 @@
 
 <div align="center">
 
-### Hatsune Miku
+<h3>Hatsune Miku</h3>
 
 <img src="https://img.shields.io/badge/FAVORITE-Hatsune%20Miku-39C5BB?style=for-the-badge" alt="Hatsune Miku" />
 
 <br/><br/>
 
-### Ryo Yamada
+<h3>Ryo Yamada</h3>
 
 <img src="https://img.shields.io/badge/FAVORITE-Ryo%20Yamada-9B8AD9?style=for-the-badge" alt="Ryo Yamada" />
 
@@ -45,18 +45,37 @@
 
 ---
 
+
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
+### Languages & Build Tools
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cmake&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,cmake&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake&theme=dark" alt="C++ and CMake" />
+</picture>
+
+### Tools & Platforms
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Development Tools" />
+</picture>
+
+### Operating Systems
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" />
+</picture>
 
 </div>
+
 
 ---
 
@@ -103,9 +122,43 @@
 
 ---
 
+## Music & Favorite Anime
+
 <div align="center">
 
-### Thanks for visiting my profile!
+### ♪ Favorite Music
+
+<a href="https://www.youtube.com/results?search_query=Hatsune+Miku+Songs" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Hatsune%20Miku%20Songs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Hatsune Miku Songs" />
+</a>
+
+<a href="https://www.youtube.com/results?search_query=Hatsune+Miku+Live" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Miku%20Live-39C5BB?style=for-the-badge&logo=youtube&logoColor=white" alt="Miku Live" />
+</a>
+
+<br/><br/>
+
+### ♡ Favorite Anime
+
+<a href="https://www.youtube.com/results?search_query=Bocchi+the+Rock+Official+Trailer" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Bocchi%20the%20Rock!-9B8AD9?style=for-the-badge&logo=youtube&logoColor=white" alt="Bocchi the Rock" />
+</a>
+
+<br/><br/>
+
+### ★ Favorite Characters
+
+<a href="https://www.youtube.com/results?search_query=Ryo+Yamada+Bocchi+the+Rock+Scenes" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Ryo%20Yamada-9B8AD9?style=for-the-badge&logo=youtube&logoColor=white" alt="Ryo Yamada" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Thanks for visiting my profile!</h3>
 
 Keep Creating. Keep Learning. Keep Building.
 
