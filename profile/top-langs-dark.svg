@@ -1,73 +1,171 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-        width="430" height="190"
-        viewBox="0 0 430 190">
-        <rect width="100%" height="100%"
-        rx="12" fill="#0D1117"/>
-        <style>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="430"
+    height="240"
+    viewBox="0 0 430 240"
+    role="img">
+
+    <title>GitHub Profile Statistics</title>
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="12"
+        fill="#0D1117"
+    />
+
+    <style>
         text {
             font-family: Arial, Helvetica, sans-serif;
         }
-        </style>
+    </style>
     
-    <text x="24" y="34" font-size="18"
-        font-weight="bold" fill="#E6EDF3">
+    <text
+        x="24"
+        y="34"
+        font-size="18"
+        font-weight="bold"
+        fill="#E6EDF3">
         Top Languages
     </text>
     
-        <text x="24" y="62"
-            font-size="12" fill="#E6EDF3">
+        <text
+            x="24"
+            y="65"
+            font-size="12"
+            fill="#E6EDF3">
             C++
         </text>
 
-        <text x="405" y="62"
-            font-size="11" text-anchor="end"
+        <text
+            x="405"
+            y="65"
+            font-size="11"
+            text-anchor="end"
             fill="#9198A1">
-            50.0%
+            58.9%
         </text>
 
-        <rect x="24" y="70"
-            width="270" height="7"
-            rx="3.5" fill="#30363D"/>
+        <rect
+            x="24"
+            y="73"
+            width="270"
+            height="7"
+            rx="3.5"
+            fill="#30363D"
+        />
 
-        <rect x="24" y="70"
-            width="135.00" height="7"
-            rx="3.5" fill="#9B8AD9"/>
+        <rect
+            x="24"
+            y="73"
+            width="158.95"
+            height="7"
+            rx="3.5"
+            fill="#F34B7D"
+        />
         
-        <text x="24" y="87"
-            font-size="12" fill="#E6EDF3">
+        <text
+            x="24"
+            y="93"
+            font-size="12"
+            fill="#E6EDF3">
             Rust
         </text>
 
-        <text x="405" y="87"
-            font-size="11" text-anchor="end"
+        <text
+            x="405"
+            y="93"
+            font-size="11"
+            text-anchor="end"
             fill="#9198A1">
-            33.3%
+            27.7%
         </text>
 
-        <rect x="24" y="95"
-            width="270" height="7"
-            rx="3.5" fill="#30363D"/>
+        <rect
+            x="24"
+            y="101"
+            width="270"
+            height="7"
+            rx="3.5"
+            fill="#30363D"
+        />
 
-        <rect x="24" y="95"
-            width="90.00" height="7"
-            rx="3.5" fill="#39C5BB"/>
+        <rect
+            x="24"
+            y="101"
+            width="74.82"
+            height="7"
+            rx="3.5"
+            fill="#DEA584"
+        />
         
-        <text x="24" y="112"
-            font-size="12" fill="#E6EDF3">
+        <text
+            x="24"
+            y="121"
+            font-size="12"
+            fill="#E6EDF3">
             Python
         </text>
 
-        <text x="405" y="112"
-            font-size="11" text-anchor="end"
+        <text
+            x="405"
+            y="121"
+            font-size="11"
+            text-anchor="end"
             fill="#9198A1">
-            16.7%
+            8.2%
         </text>
 
-        <rect x="24" y="120"
-            width="270" height="7"
-            rx="3.5" fill="#30363D"/>
+        <rect
+            x="24"
+            y="129"
+            width="270"
+            height="7"
+            rx="3.5"
+            fill="#30363D"
+        />
 
-        <rect x="24" y="120"
-            width="45.00" height="7"
-            rx="3.5" fill="#6C9FE8"/>
+        <rect
+            x="24"
+            y="129"
+            width="22.06"
+            height="7"
+            rx="3.5"
+            fill="#3572A5"
+        />
+        
+        <text
+            x="24"
+            y="149"
+            font-size="12"
+            fill="#E6EDF3">
+            Makefile
+        </text>
+
+        <text
+            x="405"
+            y="149"
+            font-size="11"
+            text-anchor="end"
+            fill="#9198A1">
+            5.2%
+        </text>
+
+        <rect
+            x="24"
+            y="157"
+            width="270"
+            height="7"
+            rx="3.5"
+            fill="#30363D"
+        />
+
+        <rect
+            x="24"
+            y="157"
+            width="14.17"
+            height="7"
+            rx="3.5"
+            fill="#9B8AD9"
+        />
         </svg>
