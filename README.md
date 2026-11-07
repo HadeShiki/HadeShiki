@@ -1,33 +1,29 @@
-<!-- 🌤️ LIGHT + GIF GITHUB PROFILE -->
-
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoajJ2bm91cWF5ZjY5NWh6eHQ3ajg2YzRlcTVrZ2huaXI5aHo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VCzTnU7UvinaIV84Wd/giphy.gif" width="100%" />
+# HadeShiki
 
-  <h1>Hi, I'm HadeShiki 👋</h1>
-  <h3>Game Developer • C++ Programmer • Open Source Enthusiast</h3>
+### C++ Developer • Game Development • Open Source
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B7CC8&center=true&vCenter=true&width=500&lines=Building+things+with+C%2B%2B;Learning+%2C+Creating+%2C+Improving;Turning+ideas+into+reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AD9&center=true&vCenter=true&width=500&lines=Building+things+with+C%2B%2B;Learning+%2C+Creating+%2C+Improving;I+Love+Miku+%E2%99%A5;I+Love+Ryo+%E2%99%A5" />
 
-  <br/>
+<br/>
 
-  <img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=9B8AD9&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/OS-Windows%2011-8B9FE8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-B9A0E8?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=HadeShiki&style=flat-square&color=B8A5E8&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## ✦ About Me
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFoajJ2bm91cWF5ZjY5NWh6eHQ3ajg2YzRlcTVrZ2huaXI5aHo3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K5FLxv5oujypXbMywW/giphy.gif" width="230" />
+## About Me
 
 ```cpp
 namespace HadeShiki {
     const char* role = "Game Developer";
     const char* language = "C++";
     const char* os = "Windows 11";
+
+    const char* favorite_1 = "Hatsune Miku";
+    const char* favorite_2 = "Ryo Yamada";
 
     bool open_to_learning = true;
     bool love_creating = true;
@@ -36,46 +32,53 @@ namespace HadeShiki {
 
 - 🎮 Interested in Game Development
 - 💻 Enjoy programming with C++
-- 🛠️ Exploring tools and development workflows
 - 🌱 Always learning something new
-- ✨ Building projects and experimenting with ideas
+- 💙 I love Miku!
+- 🎸 I love Ryo!
 
-<br clear="right"/>
-
----
-
-## ✦ Tech Stack
+## My Favorites
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3p0ajVranhkOTgxdDk1emY4eTZnOTVsa2N1ODk3cXFna3h4cnZvcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AAsvfWAOHUapnuuWpC/giphy.gif" width="180" />
+### 💙 I Love Miku
 
-  <br/><br/>
+<img src="https://img.shields.io/badge/初音ミク-Hatsune%20Miku-39C5BB?style=flat-square" />
 
-  **Languages & Tools**
+### 🎸 I Love Ryo
 
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" />
+<img src="https://img.shields.io/badge/山田リョウ-Ryo%20Yamada-9B8AD9?style=flat-square" />
 
 </div>
 
 ---
 
-## ✦ What I'm Interested In
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,vscode,windows&theme=light" />
+
+</div>
+
+---
+
+## Interests
 
 - Game Development
 - C++ Programming
 - Open Source Projects
 - Software Architecture
-- Learning new technologies
+- Anime & Manga
+- Creative Projects
 
 ---
 
-## ✦ GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HadeShiki&show_icons=true&hide_border=true&bg_color=ffffff&title_color=8B7CC8&icon_color=9B8AD9&text_color=555555" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeShiki&layout=compact&hide_border=true&bg_color=ffffff&title_color=8B7CC8&text_color=555555" height="165" />
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
 
 </div>
 
@@ -83,11 +86,10 @@ namespace HadeShiki {
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzQzdzhwN3pzMjN1cWl1MWw5MXZwdTRkaGl3MzRqdXlieGV2bDlmZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PWoR4vHpFUE3VSyIQU/giphy.gif" width="260" />
+**Thanks for visiting my profile!**
 
-  <h3>Thanks for visiting my profile!</h3>
-  <p><i>Keep creating. Keep learning. Keep building.</i></p>
+*Keep creating. Keep learning. Keep building.*
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6F3,50:B8C9F5,100:E8E4F8&height=100&section=footer" width="100%" />
 
 </div>
