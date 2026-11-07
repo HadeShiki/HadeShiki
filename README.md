@@ -74,14 +74,14 @@ I enjoy creating and publishing open-source projects, learning from other develo
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadeShiki&bg_color=09090b&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=312e81&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="./profile/activity-graph.svg" width="100%" alt="Contribution Graph" />
 
-  <br/>
+  <br/><br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadeShiki/HadeShiki/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadeShiki/HadeShiki/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HadeShiki/HadeShiki/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img alt="Contribution Snake" src="./profile/github-snake.svg" width="100%" />
   </picture>
 
 </div>
